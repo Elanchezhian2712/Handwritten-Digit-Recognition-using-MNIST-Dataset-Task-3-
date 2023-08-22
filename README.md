@@ -1,1 +1,1 @@
-# Handwritten-Digit-Recognition-using-MNIST-Dataset-Task-3-
+# Handwritten-Digit-Recognition-using-MNIST-Dataset-Task-3
